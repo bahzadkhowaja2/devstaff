@@ -11,16 +11,16 @@ Run scripts from the below path
 ### APIs
 
 To save Harvest
-POST ```/api/harvested```
+```POST /api/harvested```
 
-GET To get Harvest by id
-```/api/harvested/{id}```
+To get Harvest by id
+```GET /api/harvested/{id}```
 
-POST To save Plant
-```/api/planted```
+To save Plant
+```POST /api/planted```
 
-GET To get Plant by id
-```/api/planted/{id}```
+To get Plant by id
+```GET /api/planted/{id}```
 
-GET To get report by season
-```/api/report/{season}```
+To get report by season
+```GET /api/report/{season}```
